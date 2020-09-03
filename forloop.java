@@ -4,5 +4,7 @@ public class forloop
 	{
 		for(int i=0;i<4;i++)
 			System.out.println("looping");
+
+		System.out.println("finished with for loops");
 	}
 }
